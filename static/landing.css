@@ -632,6 +632,9 @@ a:hover, a:visited, a:focus {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   max-width: 310px; }
+  @media (max-width: 799px) {
+    .i-form__submit {
+      max-width: 100%; } }
 
 .i-form__row--submit {
   -webkit-box-pack: start;
@@ -748,6 +751,7 @@ button.i-btn--submit {
   @media (max-width: 799px) {
     button.i-btn--submit {
       text-align: center;
+      width: 100%;
       max-width: 100%;
       display: block; } }
 

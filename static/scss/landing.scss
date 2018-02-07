@@ -531,6 +531,9 @@ a:hover, a:visited, a:focus {
 .i-form__submit {
   flex: 1 1 auto;
   max-width: 310px;
+  @include for-md {
+    max-width: 100%;
+  }
 }
 
 .i-form__row--submit {
@@ -653,6 +656,7 @@ button.i-btn--submit {
 
   @include for-md {
     text-align: center;
+    width: 100%;
     max-width: 100%;
     display: block;
   }
