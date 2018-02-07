@@ -1,0 +1,171 @@
+.ico-land {
+  background-image: url(scss/sprites/ico-land-ea0f0fb1f8.png);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),
+       (min-resolution: 192dpi) {
+  .ico-land {
+    background-image: url(scss/sprites/ico-land_2x-1ad93f9317.png);
+    background-size: 441px 393px;
+  }
+}
+
+.ico-land_logo {
+  background-position: 0px -271px;
+  width: 144px;
+  height: 42px;
+}
+.ico-land_p-logo-bw {
+  background-position: 0px 0px;
+  width: 212px;
+  height: 70px;
+}
+.ico-land_p-logo-criteo {
+  background-position: 0px -315px;
+  width: 133px;
+  height: 37px;
+}
+.ico-land_p-logo-double-ad {
+  background-position: 0px -72px;
+  width: 201px;
+  height: 59px;
+}
+.ico-land_p-logo-google {
+  background-position: 0px -221px;
+  width: 140px;
+  height: 48px;
+}
+.ico-land_p-logo-republer {
+  background-position: 0px -354px;
+  width: 112px;
+  height: 39px;
+}
+.ico-land_p-logo-target {
+  background-position: -146px -271px;
+  width: 162px;
+  height: 35px;
+}
+.ico-land_p-logo-wm {
+  background-position: -142px -221px;
+  width: 141px;
+  height: 44px;
+}
+.ico-land_p-logo-ya {
+  background-position: -331px 0px;
+  width: 110px;
+  height: 54px;
+}
+.ico-land_y-shape-1 {
+  background-position: -186px -133px;
+  width: 91px;
+  height: 86px;
+}
+.ico-land_y-shape-2 {
+  background-position: -93px -133px;
+  width: 91px;
+  height: 86px;
+}
+.ico-land_y-shape-3 {
+  background-position: 0px -133px;
+  width: 91px;
+  height: 86px;
+}
+.ico-land_y-shape-4 {
+  background-position: -214px 0px;
+  width: 115px;
+  height: 100px;
+}
+.ico-land_y-shape-5 {
+  background-position: -331px -56px;
+  width: 61px;
+  height: 89px;
+}
+
+
+%ico-land {
+  background-image: url(scss/sprites/ico-land-ea0f0fb1f8.png);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),
+       (min-resolution: 192dpi) {
+  %ico-land {
+    background-image: url(scss/sprites/ico-land_2x-1ad93f9317.png);
+    background-size: 441px 393px;
+  }
+}
+
+%ico-land_logo {
+  background-position: 0px -271px;
+  width: 144px;
+  height: 42px;
+}
+%ico-land_p-logo-bw {
+  background-position: 0px 0px;
+  width: 212px;
+  height: 70px;
+}
+%ico-land_p-logo-criteo {
+  background-position: 0px -315px;
+  width: 133px;
+  height: 37px;
+}
+%ico-land_p-logo-double-ad {
+  background-position: 0px -72px;
+  width: 201px;
+  height: 59px;
+}
+%ico-land_p-logo-google {
+  background-position: 0px -221px;
+  width: 140px;
+  height: 48px;
+}
+%ico-land_p-logo-republer {
+  background-position: 0px -354px;
+  width: 112px;
+  height: 39px;
+}
+%ico-land_p-logo-target {
+  background-position: -146px -271px;
+  width: 162px;
+  height: 35px;
+}
+%ico-land_p-logo-wm {
+  background-position: -142px -221px;
+  width: 141px;
+  height: 44px;
+}
+%ico-land_p-logo-ya {
+  background-position: -331px 0px;
+  width: 110px;
+  height: 54px;
+}
+%ico-land_y-shape-1 {
+  background-position: -186px -133px;
+  width: 91px;
+  height: 86px;
+}
+%ico-land_y-shape-2 {
+  background-position: -93px -133px;
+  width: 91px;
+  height: 86px;
+}
+%ico-land_y-shape-3 {
+  background-position: 0px -133px;
+  width: 91px;
+  height: 86px;
+}
+%ico-land_y-shape-4 {
+  background-position: -214px 0px;
+  width: 115px;
+  height: 100px;
+}
+%ico-land_y-shape-5 {
+  background-position: -331px -56px;
+  width: 61px;
+  height: 89px;
+}
+
